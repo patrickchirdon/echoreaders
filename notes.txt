@@ -1,0 +1,5 @@
+Steps: 
+1. Create the publisher authentication interface & logic. ->COMPLETE
+2. Create the reader authentication interface & logic. ->COMPLETE
+3. Create the publisher add ebook and get ebook interface & logic. 
+4. Implemet the reader get ebooks interface & logic

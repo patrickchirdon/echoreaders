@@ -1,0 +1,31 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "eBook Web Application",
+  "main": "app.js",
+  "engines": {    
+    "node": "12.22.9"  
+},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.10",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
